@@ -1,0 +1,42 @@
+property-name:value; 
+
+
+P Selector 
+{ Declaration}
+
+P {color:gray;}
+
+h1,p 
+    front-family : verdana;
+    property-name:value; 
+    
+
+  h1,h2,h3{
+    font-family: Arial;
+        color:yellow;
+  } 
+  
+</html><h1 style="font: size 40px ; color "Presidential Initiative for Artificial! </h1>
+
+Universel Selector *
+type Selector ,
+class Selector .
+ID Selector #
+Child Selector >
+Desendant Selector < Space >
+Adjacent Sibling Selector +
+General Sibling Selector ~
+
+147 color
+0          255
+HEX 0 to 9 # RRGGBB
+hex A to F 
+Opacity value 0 to 1  (.5  50% ) (.25 25% )
+HSL Hue ,Saturation ,Lightness
+
+
+.container>.box*8{$}
+
+.container>.box#box-${box-$}*8
+
+ 
